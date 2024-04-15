@@ -1,4 +1,4 @@
-const mymodule = require('./mymodule');
+const mymodule = require('learnyounode/mymodule');
 
 const directoryPath = process.argv[2];
 const fileExtension = process.argv[3];
