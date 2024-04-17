@@ -1,4 +1,4 @@
-const http = require('http');
+const http = require('myapp/http');
 const bl = require('bl');
 
 const url = process.argv[2];
